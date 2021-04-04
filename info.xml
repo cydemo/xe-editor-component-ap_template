@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component version="0.2">
+    <title xml:lang="ko">템플릿</title>
+    <description xml:lang="ko">에디터 내에 지정된 템플릿을 로드합니다.</description>
+    <version>0.1.0</version>
+    <date>2017-09-13</date>
+
+    <author email_address="cydemo@gmail.com" link="https://www.xetown.com/">
+        <name xml:lang="ko">cydemo</name>
+    </author>
+</component>
